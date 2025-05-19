@@ -12,7 +12,10 @@ A generic Streamlit UI for testing generative AI agents built using Agents for A
 1. Run the following `pip` command to install the dependencies:
 
    ```
+   python3 -m venv env
+   source env/bin/activate
    pip install -r requirements.txt
+   deactivate
    ```
 
 2. Set the following environment variables either directly or using a `.env` file (use `.env.template` as a starting point):
@@ -28,3 +31,6 @@ A generic Streamlit UI for testing generative AI agents built using Agents for A
    ```
    streamlit run app.py --server.port=8080 --server.address=localhost
    ```
+6. Docker build and run
+`docker build -t agent-x-client .`
+`docker run -p 8080:8080 agent-x-client`

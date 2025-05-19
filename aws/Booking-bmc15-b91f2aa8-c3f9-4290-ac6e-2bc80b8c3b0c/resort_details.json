@@ -1,0 +1,1322 @@
+[
+    {
+        "hotel_name": "Club Mahindra Varca",
+        "hotel_location": "Goa",
+        "hotel_rating": 4.5,
+        "hotel_price_per_night": 15000,
+        "price_currency": "INR",
+        "available_units": 10,
+        "hotel_amenities": [
+            "Free Wi-Fi",
+            "Swimming Pool",
+            "Spa",
+            "Gym",
+            "Restaurant"
+        ],
+        "Availability": [
+            {
+                "2025": {
+                    "January": "True",
+                    "February": "False",
+                    "March": "True",
+                    "April": "False",
+                    "May": "True",
+                    "June": "False",
+                    "July": "True",
+                    "August": "False",
+                    "September": "True",
+                    "October": "False",
+                    "November": "True",
+                    "December": "False"
+                }
+            }
+        ]
+    },
+    {
+        "hotel_name": "Club Mahindra Acacia Palms",
+        "hotel_location": "Goa",
+        "hotel_rating": 4.5,
+        "hotel_price_per_night": 15000,
+        "price_currency": "INR",
+        "available_units": 10,
+        "hotel_amenities": [
+            "Free Wi-Fi",
+            "Swimming Pool",
+            "Spa",
+            "Gym",
+            "Restaurant"
+        ],
+        "Availability": [
+            {
+                "2025": {
+                    "January": "False",
+                    "February": "True",
+                    "March": "False",
+                    "April": "True",
+                    "May": "False",
+                    "June": "True",
+                    "July": "False",
+                    "August": "True",
+                    "September": "False",
+                    "October": "True",
+                    "November": "False",
+                    "December": "True"
+                }
+            }
+        ]
+    },
+    {
+        "hotel_name": "Club Mahindra Gir",
+        "hotel_location": "Gujarat",
+        "hotel_rating": 4.5,
+        "hotel_price_per_night": 15000,
+        "price_currency": "INR",
+        "available_units": 10,
+        "hotel_amenities": [
+            "Free Wi-Fi",
+            "Swimming Pool",
+            "Spa",
+            "Gym",
+            "Restaurant"
+        ],
+        "Availability": [
+            {
+                "2025": {
+                    "January": "True",
+                    "February": "False",
+                    "March": "True",
+                    "April": "False",
+                    "May": "True",
+                    "June": "False",
+                    "July": "True",
+                    "August": "False",
+                    "September": "True",
+                    "October": "False",
+                    "November": "True",
+                    "December": "False"
+                }
+            }
+        ]
+    },
+    {
+        "hotel_name": "Club Mahindra Gangtok",
+        "hotel_location": "Sikkim",
+        "hotel_rating": 4.5,
+        "hotel_price_per_night": 15000,
+        "price_currency": "INR",
+        "available_units": 10,
+        "hotel_amenities": [
+            "Free Wi-Fi",
+            "Swimming Pool",
+            "Spa",
+            "Gym",
+            "Restaurant"
+        ],
+        "Availability": [
+            {
+                "2025": {
+                    "January": "False",
+                    "February": "True",
+                    "March": "False",
+                    "April": "True",
+                    "May": "False",
+                    "June": "True",
+                    "July": "False",
+                    "August": "True",
+                    "September": "False",
+                    "October": "True",
+                    "November": "False",
+                    "December": "True"
+                }
+            }
+        ]
+    },
+    {
+        "hotel_name": "Club Mahindra Baiguney",
+        "hotel_location": "Sikkim",
+        "hotel_rating": 4.5,
+        "hotel_price_per_night": 15000,
+        "price_currency": "INR",
+        "available_units": 10,
+        "hotel_amenities": [
+            "Free Wi-Fi",
+            "Swimming Pool",
+            "Spa",
+            "Gym",
+            "Restaurant"
+        ],
+        "Availability": [
+            {
+                "2025": {
+                    "January": "True",
+                    "February": "False",
+                    "March": "True",
+                    "April": "False",
+                    "May": "True",
+                    "June": "False",
+                    "July": "True",
+                    "August": "False",
+                    "September": "True",
+                    "October": "False",
+                    "November": "True",
+                    "December": "False"
+                }
+            }
+        ]
+    },
+    {
+        "hotel_name": "Club Mahindra Dharamshala",
+        "hotel_location": "Himachal Pradesh",
+        "hotel_rating": 4.5,
+        "hotel_price_per_night": 15000,
+        "price_currency": "INR",
+        "available_units": 10,
+        "hotel_amenities": [
+            "Free Wi-Fi",
+            "Swimming Pool",
+            "Spa",
+            "Gym",
+            "Restaurant"
+        ],
+        "Availability": [
+            {
+                "2025": {
+                    "January": "False",
+                    "February": "True",
+                    "March": "False",
+                    "April": "True",
+                    "May": "False",
+                    "June": "True",
+                    "July": "False",
+                    "August": "True",
+                    "September": "False",
+                    "October": "True",
+                    "November": "False",
+                    "December": "True"
+                }
+            }
+        ]
+    },
+    {
+        "hotel_name": "Club Mahindra Kandaghat",
+        "hotel_location": "Shimla",
+        "hotel_rating": 4.5,
+        "hotel_price_per_night": 15000,
+        "price_currency": "INR",
+        "available_units": 10,
+        "hotel_amenities": [
+            "Free Wi-Fi",
+            "Swimming Pool",
+            "Spa",
+            "Gym",
+            "Restaurant"
+        ],
+        "Availability": [
+            {
+                "2025": {
+                    "January": "True",
+                    "February": "False",
+                    "March": "True",
+                    "April": "False",
+                    "May": "True",
+                    "June": "False",
+                    "July": "True",
+                    "August": "False",
+                    "September": "True",
+                    "October": "False",
+                    "November": "True",
+                    "December": "False"
+                }
+            }
+        ]
+    },
+    {
+        "hotel_name": "Club Mahindra White Meadows",
+        "hotel_location": "Manali",
+        "hotel_rating": 4.5,
+        "hotel_price_per_night": 15000,
+        "price_currency": "INR",
+        "available_units": 10,
+        "hotel_amenities": [
+            "Free Wi-Fi",
+            "Swimming Pool",
+            "Spa",
+            "Gym",
+            "Restaurant"
+        ],
+        "Availability": [
+            {
+                "2025": {
+                    "January": "False",
+                    "February": "True",
+                    "March": "False",
+                    "April": "True",
+                    "May": "False",
+                    "June": "True",
+                    "July": "False",
+                    "August": "True",
+                    "September": "False",
+                    "October": "True",
+                    "November": "False",
+                    "December": "True"
+                }
+            }
+        ]
+    },
+    {
+        "hotel_name": "Club Mahindra Snow Peaks",
+        "hotel_location": "Manali",
+        "hotel_rating": 4.5,
+        "hotel_price_per_night": 15000,
+        "price_currency": "INR",
+        "available_units": 10,
+        "hotel_amenities": [
+            "Free Wi-Fi",
+            "Swimming Pool",
+            "Spa",
+            "Gym",
+            "Restaurant"
+        ],
+        "Availability": [
+            {
+                "2025": {
+                    "January": "True",
+                    "February": "False",
+                    "March": "True",
+                    "April": "False",
+                    "May": "True",
+                    "June": "False",
+                    "July": "True",
+                    "August": "False",
+                    "September": "True",
+                    "October": "False",
+                    "November": "True",
+                    "December": "False"
+                }
+            }
+        ]
+    },
+    {
+        "hotel_name": "Club Mahindra Shimla",
+        "hotel_location": "Shimla",
+        "hotel_rating": 4.5,
+        "hotel_price_per_night": 15000,
+        "price_currency": "INR",
+        "available_units": 10,
+        "hotel_amenities": [
+            "Free Wi-Fi",
+            "Swimming Pool",
+            "Spa",
+            "Gym",
+            "Restaurant"
+        ],
+        "Availability": [
+            {
+                "2025": {
+                    "January": "False",
+                    "February": "True",
+                    "March": "False",
+                    "April": "True",
+                    "May": "False",
+                    "June": "True",
+                    "July": "False",
+                    "August": "True",
+                    "September": "False",
+                    "October": "True",
+                    "November": "False",
+                    "December": "True"
+                }
+            }
+        ]
+    },
+    {
+        "hotel_name": "Club Mahindra Pristine Peaks",
+        "hotel_location": "Naldehra, Shimla",
+        "hotel_rating": 4.5,
+        "hotel_price_per_night": 15000,
+        "price_currency": "INR",
+        "available_units": 10,
+        "hotel_amenities": [
+            "Free Wi-Fi",
+            "Swimming Pool",
+            "Spa",
+            "Gym",
+            "Restaurant"
+        ],
+        "Availability": [
+            {
+                "2025": {
+                    "January": "True",
+                    "February": "False",
+                    "March": "True",
+                    "April": "False",
+                    "May": "True",
+                    "June": "False",
+                    "July": "True",
+                    "August": "False",
+                    "September": "True",
+                    "October": "False",
+                    "November": "True",
+                    "December": "False"
+                }
+            }
+        ]
+    },
+    {
+        "hotel_name": "Club Mahindra Janjehli",
+        "hotel_location": "Janjehli, Himachal Pradesh",
+        "hotel_rating": 4.5,
+        "hotel_price_per_night": 15000,
+        "price_currency": "INR",
+        "available_units": 10,
+        "hotel_amenities": [
+            "Free Wi-Fi",
+            "Swimming Pool",
+            "Spa",
+            "Gym",
+            "Restaurant"
+        ],
+        "Availability": [
+            {
+                "2025": {
+                    "January": "False",
+                    "February": "True",
+                    "March": "False",
+                    "April": "True",
+                    "May": "False",
+                    "June": "True",
+                    "July": "False",
+                    "August": "True",
+                    "September": "False",
+                    "October": "True",
+                    "November": "False",
+                    "December": "True"
+                }
+            }
+        ]
+    },
+    {
+        "hotel_name": "Club Mahindra Mussoorie",
+        "hotel_location": "Mussoorie",
+        "hotel_rating": 4.5,
+        "hotel_price_per_night": 15000,
+        "price_currency": "INR",
+        "available_units": 10,
+        "hotel_amenities": [
+            "Free Wi-Fi",
+            "Swimming Pool",
+            "Spa",
+            "Gym",
+            "Restaurant"
+        ],
+        "Availability": [
+            {
+                "2025": {
+                    "January": "True",
+                    "February": "False",
+                    "March": "True",
+                    "April": "False",
+                    "May": "True",
+                    "June": "False",
+                    "July": "True",
+                    "August": "False",
+                    "September": "True",
+                    "October": "False",
+                    "November": "True",
+                    "December": "False"
+                }
+            }
+        ]
+    },
+    {
+        "hotel_name": "Club Mahindra Binsar Valley",
+        "hotel_location": "Almora",
+        "hotel_rating": 4.5,
+        "hotel_price_per_night": 15000,
+        "price_currency": "INR",
+        "available_units": 10,
+        "hotel_amenities": [
+            "Free Wi-Fi",
+            "Swimming Pool",
+            "Spa",
+            "Gym",
+            "Restaurant"
+        ],
+        "Availability": [
+            {
+                "2025": {
+                    "January": "False",
+                    "February": "True",
+                    "March": "False",
+                    "April": "True",
+                    "May": "False",
+                    "June": "True",
+                    "July": "False",
+                    "August": "True",
+                    "September": "False",
+                    "October": "True",
+                    "November": "False",
+                    "December": "True"
+                }
+            }
+        ]
+    },
+    {
+        "hotel_name": "Summit Green Lake Tea Resort Spa",
+        "hotel_location": "Assam",
+        "hotel_rating": 4.5,
+        "hotel_price_per_night": 15000,
+        "price_currency": "INR",
+        "available_units": 10,
+        "hotel_amenities": [
+            "Free Wi-Fi",
+            "Swimming Pool",
+            "Spa",
+            "Gym",
+            "Restaurant"
+        ],
+        "Availability": [
+            {
+                "2025": {
+                    "January": "True",
+                    "February": "False",
+                    "March": "True",
+                    "April": "False",
+                    "May": "True",
+                    "June": "False",
+                    "July": "True",
+                    "August": "False",
+                    "September": "True",
+                    "October": "False",
+                    "November": "True",
+                    "December": "False"
+                }
+            }
+        ]
+    },
+    {
+        "hotel_name": "Marasa Sarovar Premiere",
+        "hotel_location": "Bihar",
+        "hotel_rating": 4.5,
+        "hotel_price_per_night": 15000,
+        "price_currency": "INR",
+        "available_units": 10,
+        "hotel_amenities": [
+            "Free Wi-Fi",
+            "Swimming Pool",
+            "Spa",
+            "Gym",
+            "Restaurant"
+        ],
+        "Availability": [
+            {
+                "2025": {
+                    "January": "False",
+                    "February": "True",
+                    "March": "False",
+                    "April": "True",
+                    "May": "False",
+                    "June": "True",
+                    "July": "False",
+                    "August": "True",
+                    "September": "False",
+                    "October": "True",
+                    "November": "False",
+                    "December": "True"
+                }
+            }
+        ]
+    },
+    {
+        "hotel_name": "Le Vintuna",
+        "hotel_location": "Gangtok",
+        "hotel_rating": 4.5,
+        "hotel_price_per_night": 15000,
+        "price_currency": "INR",
+        "available_units": 10,
+        "hotel_amenities": [
+            "Free Wi-Fi",
+            "Swimming Pool",
+            "Spa",
+            "Gym",
+            "Restaurant"
+        ],
+        "Availability": [
+            {
+                "2025": {
+                    "January": "True",
+                    "February": "False",
+                    "March": "True",
+                    "April": "False",
+                    "May": "True",
+                    "June": "False",
+                    "July": "True",
+                    "August": "False",
+                    "September": "True",
+                    "October": "False",
+                    "November": "True",
+                    "December": "False"
+                }
+            }
+        ]
+    },
+    {
+        "hotel_name": "The Chumbi Mountain Retreat",
+        "hotel_location": "Pelling, Shillong",
+        "hotel_rating": 4.5,
+        "hotel_price_per_night": 15000,
+        "price_currency": "INR",
+        "available_units": 10,
+        "hotel_amenities": [
+            "Free Wi-Fi",
+            "Swimming Pool",
+            "Spa",
+            "Gym",
+            "Restaurant"
+        ],
+        "Availability": [
+            {
+                "2025": {
+                    "January": "False",
+                    "February": "True",
+                    "March": "False",
+                    "April": "True",
+                    "May": "False",
+                    "June": "True",
+                    "July": "False",
+                    "August": "True",
+                    "September": "False",
+                    "October": "True",
+                    "November": "False",
+                    "December": "True"
+                }
+            }
+        ]
+    },
+    {
+        "hotel_name": "Symphony Summer Sands",
+        "hotel_location": "Neil Island, Andaman and Nicobar",
+        "hotel_rating": 4.5,
+        "hotel_price_per_night": 15000,
+        "price_currency": "INR",
+        "available_units": 10,
+        "hotel_amenities": [
+            "Free Wi-Fi",
+            "Swimming Pool",
+            "Spa",
+            "Gym",
+            "Restaurant"
+        ],
+        "Availability": [
+            {
+                "2025": {
+                    "January": "True",
+                    "February": "False",
+                    "March": "True",
+                    "April": "False",
+                    "May": "True",
+                    "June": "False",
+                    "July": "True",
+                    "August": "False",
+                    "September": "True",
+                    "October": "False",
+                    "November": "True",
+                    "December": "False"
+                }
+            }
+        ]
+    },
+    {
+        "hotel_name": "Symphony Samudra",
+        "hotel_location": "Port Blair, Andaman and Nicobar",
+        "hotel_rating": 4.5,
+        "hotel_price_per_night": 15000,
+        "price_currency": "INR",
+        "available_units": 10,
+        "hotel_amenities": [
+            "Free Wi-Fi",
+            "Swimming Pool",
+            "Spa",
+            "Gym",
+            "Restaurant"
+        ],
+        "Availability": [
+            {
+                "2025": {
+                    "January": "False",
+                    "February": "True",
+                    "March": "False",
+                    "April": "True",
+                    "May": "False",
+                    "June": "True",
+                    "July": "False",
+                    "August": "True",
+                    "September": "False",
+                    "October": "True",
+                    "November": "False",
+                    "December": "True"
+                }
+            }
+        ]
+    },
+    {
+        "hotel_name": "Symphony Palms",
+        "hotel_location": "Havelock Island, Andaman and Nicobar",
+        "hotel_rating": 4.5,
+        "hotel_price_per_night": 15000,
+        "price_currency": "INR",
+        "available_units": 10,
+        "hotel_amenities": [
+            "Free Wi-Fi",
+            "Swimming Pool",
+            "Spa",
+            "Gym",
+            "Restaurant"
+        ],
+        "Availability": [
+            {
+                "2025": {
+                    "January": "True",
+                    "February": "False",
+                    "March": "True",
+                    "April": "False",
+                    "May": "True",
+                    "June": "False",
+                    "July": "True",
+                    "August": "False",
+                    "September": "True",
+                    "October": "False",
+                    "November": "True",
+                    "December": "False"
+                }
+            }
+        ]
+    },
+    {
+        "hotel_name": "Igreha Villa C",
+        "hotel_location": "Siolim, Goa",
+        "hotel_rating": 4.5,
+        "hotel_price_per_night": 15000,
+        "price_currency": "INR",
+        "available_units": 10,
+        "hotel_amenities": [
+            "Free Wi-Fi",
+            "Swimming Pool",
+            "Spa",
+            "Gym",
+            "Restaurant"
+        ],
+        "Availability": [
+            {
+                "2025": {
+                    "January": "False",
+                    "February": "True",
+                    "March": "False",
+                    "April": "True",
+                    "May": "False",
+                    "June": "True",
+                    "July": "False",
+                    "August": "True",
+                    "September": "False",
+                    "October": "True",
+                    "November": "False",
+                    "December": "True"
+                }
+            }
+        ]
+    },
+    {
+        "hotel_name": "Aroha Palms Grande Resort",
+        "hotel_location": "Goa",
+        "hotel_rating": 4.5,
+        "hotel_price_per_night": 15000,
+        "price_currency": "INR",
+        "available_units": 10,
+        "hotel_amenities": [
+            "Free Wi-Fi",
+            "Swimming Pool",
+            "Spa",
+            "Gym",
+            "Restaurant"
+        ],
+        "Availability": [
+            {
+                "2025": {
+                    "January": "True",
+                    "February": "False",
+                    "March": "True",
+                    "April": "False",
+                    "May": "True",
+                    "June": "False",
+                    "July": "True",
+                    "August": "False",
+                    "September": "True",
+                    "October": "False",
+                    "November": "True",
+                    "December": "False"
+                }
+            }
+        ]
+    },
+    {
+        "hotel_name": "Igreha Villa F",
+        "hotel_location": "Siolim, Goa",
+        "hotel_rating": 4.5,
+        "hotel_price_per_night": 15000,
+        "price_currency": "INR",
+        "available_units": 10,
+        "hotel_amenities": [
+            "Free Wi-Fi",
+            "Swimming Pool",
+            "Spa",
+            "Gym",
+            "Restaurant"
+        ],
+        "Availability": [
+            {
+                "2025": {
+                    "January": "False",
+                    "February": "True",
+                    "March": "False",
+                    "April": "True",
+                    "May": "False",
+                    "June": "True",
+                    "July": "False",
+                    "August": "True",
+                    "September": "False",
+                    "October": "True",
+                    "November": "False",
+                    "December": "True"
+                }
+            }
+        ]
+    },
+    {
+        "hotel_name": "Ishavilas Siolim",
+        "hotel_location": "Goa",
+        "hotel_rating": 4.5,
+        "hotel_price_per_night": 15000,
+        "price_currency": "INR",
+        "available_units": 10,
+        "hotel_amenities": [
+            "Free Wi-Fi",
+            "Swimming Pool",
+            "Spa",
+            "Gym",
+            "Restaurant"
+        ],
+        "Availability": [
+            {
+                "2025": {
+                    "January": "True",
+                    "February": "False",
+                    "March": "True",
+                    "April": "False",
+                    "May": "True",
+                    "June": "False",
+                    "July": "True",
+                    "August": "False",
+                    "September": "True",
+                    "October": "False",
+                    "November": "True",
+                    "December": "False"
+                }
+            }
+        ]
+    },
+    {
+        "hotel_name": "Azzaro Resorts & Spa",
+        "hotel_location": "Diu",
+        "hotel_rating": 4.5,
+        "hotel_price_per_night": 15000,
+        "price_currency": "INR",
+        "available_units": 10,
+        "hotel_amenities": [
+            "Free Wi-Fi",
+            "Swimming Pool",
+            "Spa",
+            "Gym",
+            "Restaurant"
+        ],
+        "Availability": [
+            {
+                "2025": {
+                    "January": "False",
+                    "February": "True",
+                    "March": "False",
+                    "April": "True",
+                    "May": "False",
+                    "June": "True",
+                    "July": "False",
+                    "August": "True",
+                    "September": "False",
+                    "October": "True",
+                    "November": "False",
+                    "December": "True"
+                }
+            }
+        ]
+    },
+    {
+        "hotel_name": "Devka Beach Resort",
+        "hotel_location": "Daman",
+        "hotel_rating": 4.5,
+        "hotel_price_per_night": 15000,
+        "price_currency": "INR",
+        "available_units": 10,
+        "hotel_amenities": [
+            "Free Wi-Fi",
+            "Swimming Pool",
+            "Spa",
+            "Gym",
+            "Restaurant"
+        ],
+        "Availability": [
+            {
+                "2025": {
+                    "January": "True",
+                    "February": "False",
+                    "March": "True",
+                    "April": "False",
+                    "May": "True",
+                    "June": "False",
+                    "July": "True",
+                    "August": "False",
+                    "September": "True",
+                    "October": "False",
+                    "November": "True",
+                    "December": "False"
+                }
+            }
+        ]
+    },
+    {
+        "hotel_name": "Praveg Beach Resort Jampore",
+        "hotel_location": "Daman",
+        "hotel_rating": 4.5,
+        "hotel_price_per_night": 15000,
+        "price_currency": "INR",
+        "available_units": 10,
+        "hotel_amenities": [
+            "Free Wi-Fi",
+            "Swimming Pool",
+            "Spa",
+            "Gym",
+            "Restaurant"
+        ],
+        "Availability": [
+            {
+                "2025": {
+                    "January": "False",
+                    "February": "True",
+                    "March": "False",
+                    "April": "True",
+                    "May": "False",
+                    "June": "True",
+                    "July": "False",
+                    "August": "True",
+                    "September": "False",
+                    "October": "True",
+                    "November": "False",
+                    "December": "True"
+                }
+            }
+        ]
+    },
+    {
+        "hotel_name": "Praveg Beach Resort Lighthouse",
+        "hotel_location": "Daman",
+        "hotel_rating": 4.5,
+        "hotel_price_per_night": 15000,
+        "price_currency": "INR",
+        "available_units": 10,
+        "hotel_amenities": [
+            "Free Wi-Fi",
+            "Swimming Pool",
+            "Spa",
+            "Gym",
+            "Restaurant"
+        ],
+        "Availability": [
+            {
+                "2025": {
+                    "January": "True",
+                    "February": "False",
+                    "March": "True",
+                    "April": "False",
+                    "May": "True",
+                    "June": "False",
+                    "July": "True",
+                    "August": "False",
+                    "September": "True",
+                    "October": "False",
+                    "November": "True",
+                    "December": "False"
+                }
+            }
+        ]
+    },
+    {
+        "hotel_name": "Praveg Beach Resort Chakratirth",
+        "hotel_location": "Diu",
+        "hotel_rating": 4.5,
+        "hotel_price_per_night": 15000,
+        "price_currency": "INR",
+        "available_units": 10,
+        "hotel_amenities": [
+            "Free Wi-Fi",
+            "Swimming Pool",
+            "Spa",
+            "Gym",
+            "Restaurant"
+        ],
+        "Availability": [
+            {
+                "2025": {
+                    "January": "False",
+                    "February": "True",
+                    "March": "False",
+                    "April": "True",
+                    "May": "False",
+                    "June": "True",
+                    "July": "False",
+                    "August": "True",
+                    "September": "False",
+                    "October": "True",
+                    "November": "False",
+                    "December": "True"
+                }
+            }
+        ]
+    },
+    {
+        "hotel_name": "Praveg Beach Resort Nagoa",
+        "hotel_location": "Diu",
+        "hotel_rating": 4.5,
+        "hotel_price_per_night": 15000,
+        "price_currency": "INR",
+        "available_units": 10,
+        "hotel_amenities": [
+            "Free Wi-Fi",
+            "Swimming Pool",
+            "Spa",
+            "Gym",
+            "Restaurant"
+        ],
+        "Availability": [
+            {
+                "2025": {
+                    "January": "True",
+                    "February": "False",
+                    "March": "True",
+                    "April": "False",
+                    "May": "True",
+                    "June": "False",
+                    "July": "True",
+                    "August": "False",
+                    "September": "True",
+                    "October": "False",
+                    "November": "True",
+                    "December": "False"
+                }
+            }
+        ]
+    },
+    {
+        "hotel_name": "Royal Tulip Hotel and Casino",
+        "hotel_location": "Tbilisi, Georgia",
+        "hotel_rating": 4.5,
+        "hotel_price_per_night": 15000,
+        "price_currency": "INR",
+        "available_units": 10,
+        "hotel_amenities": [
+            "Free Wi-Fi",
+            "Swimming Pool",
+            "Spa",
+            "Gym",
+            "Restaurant"
+        ],
+        "Availability": [
+            {
+                "2025": {
+                    "January": "False",
+                    "February": "True",
+                    "March": "False",
+                    "April": "True",
+                    "May": "False",
+                    "June": "True",
+                    "July": "False",
+                    "August": "True",
+                    "September": "False",
+                    "October": "True",
+                    "November": "False",
+                    "December": "True"
+                }
+            }
+        ]
+    },
+    {
+        "hotel_name": "The Marmara Sisli",
+        "hotel_location": "Turkey",
+        "hotel_rating": 4.5,
+        "hotel_price_per_night": 15000,
+        "price_currency": "INR",
+        "available_units": 10,
+        "hotel_amenities": [
+            "Free Wi-Fi",
+            "Swimming Pool",
+            "Spa",
+            "Gym",
+            "Restaurant"
+        ],
+        "Availability": [
+            {
+                "2025": {
+                    "January": "True",
+                    "February": "False",
+                    "March": "True",
+                    "April": "False",
+                    "May": "True",
+                    "June": "False",
+                    "July": "True",
+                    "August": "False",
+                    "September": "True",
+                    "October": "False",
+                    "November": "True",
+                    "December": "False"
+                }
+            }
+        ]
+    },
+    {
+        "hotel_name": "Holiday Club Turun Caribia",
+        "hotel_location": "Turku, Finland",
+        "hotel_rating": 4.5,
+        "hotel_price_per_night": 15000,
+        "price_currency": "INR",
+        "available_units": 10,
+        "hotel_amenities": [
+            "Free Wi-Fi",
+            "Swimming Pool",
+            "Spa",
+            "Gym",
+            "Restaurant"
+        ],
+        "Availability": [
+            {
+                "2025": {
+                    "January": "False",
+                    "February": "True",
+                    "March": "False",
+                    "April": "True",
+                    "May": "False",
+                    "June": "True",
+                    "July": "False",
+                    "August": "True",
+                    "September": "False",
+                    "October": "True",
+                    "November": "False",
+                    "December": "True"
+                }
+            }
+        ]
+    },
+    {
+        "hotel_name": "Holiday Club Katinkulta",
+        "hotel_location": "Finland",
+        "hotel_rating": 4.5,
+        "hotel_price_per_night": 15000,
+        "price_currency": "INR",
+        "available_units": 10,
+        "hotel_amenities": [
+            "Free Wi-Fi",
+            "Swimming Pool",
+            "Spa",
+            "Gym",
+            "Restaurant"
+        ],
+        "Availability": [
+            {
+                "2025": {
+                    "January": "True",
+                    "February": "False",
+                    "March": "True",
+                    "April": "False",
+                    "May": "True",
+                    "June": "False",
+                    "July": "True",
+                    "August": "False",
+                    "September": "True",
+                    "October": "False",
+                    "November": "True",
+                    "December": "False"
+                }
+            }
+        ]
+    },
+    {
+        "hotel_name": "Holiday Club Kuusamon Tropiikki",
+        "hotel_location": "Finland",
+        "hotel_rating": 4.5,
+        "hotel_price_per_night": 15000,
+        "price_currency": "INR",
+        "available_units": 10,
+        "hotel_amenities": [
+            "Free Wi-Fi",
+            "Swimming Pool",
+            "Spa",
+            "Gym",
+            "Restaurant"
+        ],
+        "Availability": [
+            {
+                "2025": {
+                    "January": "False",
+                    "February": "True",
+                    "March": "False",
+                    "April": "True",
+                    "May": "False",
+                    "June": "True",
+                    "July": "False",
+                    "August": "True",
+                    "September": "False",
+                    "October": "True",
+                    "November": "False",
+                    "December": "True"
+                }
+            }
+        ]
+    },
+    {
+        "hotel_name": "Mahindra Holiday Resorts Shimla",
+        "hotel_location": "Shimla",
+        "hotel_rating": 4.5,
+        "hotel_price_per_night": 15000,
+        "price_currency": "INR",
+        "available_units": 10,
+        "hotel_amenities": [
+            "Free Wi-Fi",
+            "Swimming Pool",
+            "Spa",
+            "Gym",
+            "Restaurant"
+        ],
+        "Availability": [
+            {
+                "2025": {
+                    "January": "True",
+                    "February": "False",
+                    "March": "True",
+                    "April": "False",
+                    "May": "True",
+                    "June": "True",
+                    "July": "True",
+                    "August": "True",
+                    "September": "False",
+                    "October": "True",
+                    "November": "False",
+                    "December": "True"
+                }
+            }
+        ]
+    },
+    {
+        "hotel_name": "Mahindra Holiday, Shimla",
+        "hotel_location": "Shimla",
+        "hotel_rating": 4.5,
+        "hotel_price_per_night": 15000,
+        "price_currency": "INR",
+        "available_units": 10,
+        "hotel_amenities": [
+            "Free Wi-Fi",
+            "Swimming Pool",
+            "Spa",
+            "Gym",
+            "Restaurant"
+        ],
+        "Availability": [
+            {
+                "2025": {
+                    "January": "True",
+                    "February": "False",
+                    "March": "True",
+                    "April": "False",
+                    "May": "True",
+                    "June": "True",
+                    "July": "True",
+                    "August": "True",
+                    "September": "False",
+                    "October": "True",
+                    "November": "False",
+                    "December": "True"
+                }
+            }
+        ]
+    },
+    {
+        "hotel_name": "Mahindra Holiday, Mashobra",
+        "hotel_location": "Shimla",
+        "hotel_rating": 4.5,
+        "hotel_price_per_night": 15000,
+        "price_currency": "INR",
+        "available_units": 10,
+        "hotel_amenities": [
+            "Free Wi-Fi",
+            "Swimming Pool",
+            "Spa",
+            "Gym",
+            "Restaurant"
+        ],
+        "Availability": [
+            {
+                "2025": {
+                    "January": "True",
+                    "February": "False",
+                    "March": "True",
+                    "April": "False",
+                    "May": "True",
+                    "June": "True",
+                    "July": "True",
+                    "August": "True",
+                    "September": "False",
+                    "October": "True",
+                    "November": "False",
+                    "December": "True"
+                }
+            }
+        ]
+    },
+    {
+        "hotel_name": "Mahindra Holiday, Kufri",
+        "hotel_location": "Shimla",
+        "hotel_rating": 4.5,
+        "hotel_price_per_night": 15000,
+        "price_currency": "INR",
+        "available_units": 10,
+        "hotel_amenities": [
+            "Free Wi-Fi",
+            "Swimming Pool",
+            "Spa",
+            "Gym",
+            "Restaurant"
+        ],
+        "Availability": [
+            {
+                "2025": {
+                    "January": "True",
+                    "February": "False",
+                    "March": "True",
+                    "April": "False",
+                    "May": "True",
+                    "June": "True",
+                    "July": "True",
+                    "August": "True",
+                    "September": "False",
+                    "October": "True",
+                    "November": "False",
+                    "December": "True"
+                }
+            }
+        ]
+    }
+]
